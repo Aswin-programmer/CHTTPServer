@@ -1,0 +1,5 @@
+/Users/aswinm/AswinC/build/Debug/CMakeFiles/HTTPServerInC.dir
+/Users/aswinm/AswinC/build/Debug/CMakeFiles/package.dir
+/Users/aswinm/AswinC/build/Debug/CMakeFiles/package_source.dir
+/Users/aswinm/AswinC/build/Debug/CMakeFiles/edit_cache.dir
+/Users/aswinm/AswinC/build/Debug/CMakeFiles/rebuild_cache.dir

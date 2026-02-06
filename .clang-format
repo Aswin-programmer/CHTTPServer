@@ -1,0 +1,25 @@
+BasedOnStyle: LLVM
+
+# 🔹 USE TABS
+UseTab: Always
+IndentWidth: 4
+TabWidth: 4
+
+# 🔹 DO NOT REFORMAT LINE STRUCTURE
+ColumnLimit: 0
+
+# 🔹 PREVENT CODE "SHRINKING"
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+
+# 🔹 KEEP BRACES STABLE
+BreakBeforeBraces: Attach
+
+# 🔹 KEEP PARAMETERS READABLE
+BinPackParameters: false
+BinPackArguments: false
+
+# 🔹 DON’T MESS WITH COMMENTS
+ReflowComments: false
+
